@@ -12,7 +12,7 @@ Focused on backend architecture, AI integrations, and building scalable systems.
 ### What I'm Doing
 
 - 🔬 **AI Research Assistant @ MSU** — Evaluating evolutionary ML models for directed protein evolution, running benchmarks on MSU's ICER supercomputer, and building data pipelines around high-volume simulation outputs.
-- 🏗️ **Building** [Generative CAD AI Assistant]() a full-stack app that generates and edits 3D models from natural language via MCP + LLMs.
+- 🏗️ **Building** [Generative CAD AI Assistant]() a full-stack app that generates 3D models from natural language via MCP + LLMs.
 - 🌱 **Exploring** scalable backend patterns, LLM orchestration, and the intersection between computing and biology.
 
 ---
