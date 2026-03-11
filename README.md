@@ -1,4 +1,42 @@
-## Hi there 👋
+# Hi, I'm Owen 👋
+
+CS & Business ('26) @ Michigan State University  
+Focused on backend architecture, AI integrations, and building scalable systems.
+
+📍 Michigan | 🎓 Graduating May 2026 | 💼 Open to SWE, backend, cloud, and applied AI roles
+
+[Portfolio](https://owenirving.me) · [LinkedIn](https://linkedin.com/in/owenirving)
+
+---
+
+### What I'm Doing
+
+- 🔬 **AI Research Assistant @ MSU** — Evaluating evolutionary ML models for directed protein evolution, running benchmarks on MSU's supercomputer, and building data pipelines around high-volume simulation outputs.
+- 🏗️ **Building** a [Generative CAD AI Assistant]() — full-stack app that generates 3D models from natural language via Model Context Protocol + LLMs.
+- 🌱 **Exploring** scalable backend patterns, LLM orchestration, and the intersection between computers and biology.
+
+---
+
+### Projects
+
+- 🧊 [**Generative CAD AI Assistant**]() — Multi-modal AI that translates natural language into 3D CAD models. Built the backend, MCP client, and LLM integration. Cut API costs 50% through payload optimization. `FastAPI` `Next.js` `Three.js` `MCP`
+- 📅 [**Group Scheduling App**](https://github.com/owenirving/Whendigo) — Real-time scheduling with live availability sync, heatmap UI, and secured APIs. Deployed on Cloud Run. `Flask` `MySQL` `Socket.IO` `Docker`
+- 🚗 [**Ride-Sharing Microservices**]() — Distributed backend with independent services for users, availability, reservations, and payments connected through a cross-service booking workflow. `Flask` `Docker Compose` `REST APIs`
+- 🎞️ [**Keyframe Animation Engine**]() — C++ engine with custom timeline UI, hierarchical actor system, and extensible architecture built on classic design patterns. `C++` `CMake` `OOP`
+
+---
+
+### Toolkit
+
+**Languages:** Python, JavaScript, C++, SQL  
+**Backend:** FastAPI, Flask, Node.js, Microservices, REST APIs  
+**AI/ML:** PyTorch, LLM Integration, Prompt Engineering
+**Frontend:** React, Next.js, Three.js  
+**Infra:** Docker, Google Cloud Run, Linux, Git, GitHub Actions
+
+---
+
+*Always exploring new tech and optimizing workflows. Let's [connect](owenirving.me).*
 
 <!--
 **owenirving/owenirving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
