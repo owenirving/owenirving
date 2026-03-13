@@ -36,7 +36,7 @@ Focused on backend architecture, AI integrations, and building scalable systems.
 
 ---
 
-*Always exploring new tech and optimizing workflows. Let's [connect](https://owenirving.me).*
+*Always exploring new tech and optimizing workflows. Let's [connect](https://linkedin.com/in/owenirving).*
 
 <!--
 **owenirving/owenirving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
