@@ -30,7 +30,7 @@ Focused on backend architecture, AI integrations, and building scalable systems.
 
 **Languages:** Python, JavaScript, C++, SQL  
 **Backend:** FastAPI, Flask, Node.js, Microservices, REST APIs  
-**AI/ML:** PyTorch, LLM Integration, Prompt Engineering
+**AI/ML:** PyTorch, LLM Integration, Prompt Engineering  
 **Frontend:** React, Next.js, Three.js  
 **Infra:** Docker, Azure VPS, Google Cloud Run, Linux, Git, GitHub Actions
 
