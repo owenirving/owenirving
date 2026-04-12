@@ -1,9 +1,9 @@
 # Hi, I'm Owen 👋
 
 CS @ Michigan State University '26  
-Focused on backend architecture, AI integrations, and building scalable systems.
+Focused on AI integrations, backend architecture, and building scalable systems.
 
-📍 Michigan | 🎓 Graduating May 2026 | 💼 Open to SWE, backend, cloud, and AI roles
+📍 Michigan | 🎓 Graduating May 2026 | 💼 Open to SWE, AI, backend, and cloud roles
 
 [Portfolio](https://owenirving.me) · [LinkedIn](https://linkedin.com/in/owenirving)
 
