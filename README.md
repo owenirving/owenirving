@@ -5,7 +5,7 @@ Focused on AI integrations, backend architecture, and building scalable systems.
 
 📍 Michigan | 🎓 Graduating May 2026 | 💼 Open to SWE, AI, backend, and cloud roles
 
-[Portfolio](https://owenirving.me) · [LinkedIn](https://linkedin.com/in/owenirving)
+[Portfolio](https://owenirving.me) | [LinkedIn](https://linkedin.com/in/owenirving)
 
 ---
 
