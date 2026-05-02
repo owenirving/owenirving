@@ -1,9 +1,9 @@
 # Hi, I'm Owen 👋
 
-CS @ Michigan State University '26  
+Recent CS graduate from Michigan State University  
 Focused on AI integrations, backend architecture, and building scalable systems.
 
-📍 Michigan | 🎓 Graduating May 2026 | 💼 Open to SWE, AI, backend, and cloud roles
+📍 Michigan | 🎓 B.S. Computer Science (Software Engineering Concentration) | 💼 Actively seeking SWE, AI, backend, and cloud roles
 
 [Portfolio](https://owenirving.me) | [LinkedIn](https://linkedin.com/in/owenirving)
 
@@ -19,20 +19,19 @@ Focused on AI integrations, backend architecture, and building scalable systems.
 
 ### Projects
 
-- 🧊 [**Generative Multi-Modal CAD AI Assistant**](https://github.com/owenirving/CAD-AI-Assistant) — Multi-modal AI that translates natural language into 3D CAD models. Built the backend, MCP client, and LLM integration. Cut API costs 40% through payload optimization. `FastAPI` `Next.js` `MCP` `Python`
-- 📅 [**Group Scheduling App**](https://github.com/owenirving/Whendigo) — Real-time scheduling with live availability sync, heatmap UI, and secured APIs. Deployed on Cloud Run. `Flask` `MySQL` `Socket.IO` `Docker`
-- 🚗 [**Ride-Sharing Microservice Backend**](https://github.com/owenirving/Ride-Sharing-Backend) — Distributed backend with independent services for users, availability, reservations, and payments connected through a cross-service booking workflow. `Flask` `Docker Compose` `REST APIs`
-- 🎞️ [**Keyframe Animation Engine**](https://github.com/owenirving/Keyframe-Animation-Engine) — C++ engine with custom timeline UI, hierarchical actor system, and extensible architecture built on classic design patterns. `C++` `CMake` `OOP`
+- 🧊 [**Generative Multi-Modal CAD AI Assistant**](https://github.com/owenirving/CAD-AI-Assistant) - AI assistant that translates natural language into 3D CAD models. Built the backend, containerization, Redis cache, MCP client, FreeCAD scripts, and LLM integration for a team of 6. Cut API costs 40% through payload optimization. `FastAPI` `Next.js` `Python` `Redis` `Docker` `MCP` `Claude` `Gemini`
+- 📅 [**Group Scheduling App**](https://github.com/owenirving/Whendigo) - Real-time scheduling with live availability sync, heatmap UI, and secured APIs. Deployed on Cloud Run. `Flask` `MySQL` `Socket.IO` `Docker`
+- 🚗 [**Ride-Sharing Microservice Backend**](https://github.com/owenirving/Ride-Sharing-Backend) - Distributed backend with independent services for users, availability, reservations, and payments connected through a cross-service booking workflow. `Flask` `Docker Compose` `REST APIs`
+- 🎞️ [**Keyframe Animation Engine**](https://github.com/owenirving/Keyframe-Animation-Engine) - C++ engine with custom timeline UI, hierarchical actor system, and extensible architecture built on classic design patterns. `C++` `CMake` `OOP`
 
 ---
 
 ### Toolkit
 
 **Languages:** Python, JavaScript, C++, SQL  
-**Backend:** FastAPI, Flask, Node.js, Microservices, REST APIs  
-**AI/ML:** PyTorch, LLM Integration, Context Optimization
-**Frontend:** React, Next.js, Three.js  
-**Infra:** Docker, Azure VPS, Google Cloud Run, Linux, Git, GitHub Actions
+**Frameworks:** FastAPI, Flask, Next.js, React, Node.js, Vue.js  
+**AI/ML:** PyTorch, scikit-learn, LLM APIs (Google, Claude, OpenAI), Microsoft Foundry, MCP, NumPy  
+**Tools:** Docker, Redis, Git, Google Cloud Run, GitLab CI/CD, Linux, GitHub Actions, Azure, VPS  
 
 ---
 
