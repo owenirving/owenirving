@@ -19,7 +19,7 @@ Focused on AI integrations, backend architecture, and building scalable systems.
 
 ### Projects
 
-- 🧊 [**Generative Multi-Modal CAD AI Assistant**](https://github.com/owenirving/CAD-AI-Assistant) - AI assistant that translates natural language into 3D CAD models. Built the backend, containerization, Redis cache, MCP client, FreeCAD scripts, and LLM integration for a team of 6. Cut API costs 40% through payload optimization. `FastAPI` `Next.js` `Python` `Redis` `Docker` `MCP` `Claude` `Gemini`
+- 🧊 [**Generative Multi-Modal CAD AI Assistant**](https://github.com/owenirving/CAD-AI-Assistant) - AI assistant that translates natural language into 3D CAD models. Built the backend, containerization, Redis cache, MCP client, FreeCAD scripts, and LLM integration for a team of 6. Cut API costs 40% through payload optimization. `FastAPI` `Next.js` `Python` `Redis` `Docker` `MCP` `Claude` `Gemini` `Three.js`
 - 📅 [**Group Scheduling App**](https://github.com/owenirving/Whendigo) - Real-time scheduling with live availability sync, heatmap UI, and secured APIs. Deployed on Cloud Run. `Flask` `MySQL` `Socket.IO` `Docker`
 - 🚗 [**Ride-Sharing Microservice Backend**](https://github.com/owenirving/Ride-Sharing-Backend) - Distributed backend with independent services for users, availability, reservations, and payments connected through a cross-service booking workflow. `Flask` `Docker Compose` `REST APIs`
 - 🎞️ [**Keyframe Animation Engine**](https://github.com/owenirving/Keyframe-Animation-Engine) - C++ engine with custom timeline UI, hierarchical actor system, and extensible architecture built on classic design patterns. `C++` `CMake` `OOP`
